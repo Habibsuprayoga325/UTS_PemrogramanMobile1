@@ -6,7 +6,7 @@
 | **NIM**            |          312310476         |
 | **Kelas**          |          TI.23.A.5         |
 | **Mata Kuliah**    |     Pemrograman Mobile     |
-| **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
+| **Dosen Pengampu** |Donny Maulana, S.Kom., M.M.S.I  |
 
 
 ## QiblaQu
