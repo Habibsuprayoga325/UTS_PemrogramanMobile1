@@ -8,6 +8,7 @@
 | **Mata Kuliah**    |     Pemrograman Mobile     |
 | **Dosen Pengampu** |Donny Maulana, S.Kom., M.M.S.I  |
 
+![image](https://github.com/user-attachments/assets/469c9e0e-b459-443d-bda7-830659e75e3b)
 
 ## QiblaQu
 Aplikasi ini bertujuan untuk membantu pengguna dalam mengakses bacaan doa sehari-hari dalam format yang mudah diakses dan dipahami.
